@@ -1,3 +1,5 @@
+## 如果执行脚本不能成功拉取原docker镜像，或者原docker镜像失效，可改用此地址的备份镜像
+https://hub.docker.com/repository/docker/maxwellhouse102/v2ray_v3_hulisang
 ## 更新安装脚本测试版本
 脚本不再从github拉取docker-compose.yml,而是自己生成，添加自定义镜像，默认是我提供的升级版镜像
 ## 更新镜像（测试）
